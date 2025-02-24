@@ -10,3 +10,7 @@ network. The SBPM accounted for sensory noise and temporal perception, suggestin
 unified strategy across path types. The Dual LSTM model captured both binary responses
 and reaction times. Both models revealed a recency bias, consistent with perceptual
 decision-making theories.
+
+<p align=center>
+<img src="pipeline.png" width="60%">
+</p>
