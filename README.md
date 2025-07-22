@@ -12,5 +12,5 @@ and reaction times. Both models revealed a recency bias, consistent with percept
 decision-making theories.
 
 <p align=center>
-<img src="pipeline.png" width="60%">
+<img src="pipeline.jpg" width="60%">
 </p>
